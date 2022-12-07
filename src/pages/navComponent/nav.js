@@ -35,7 +35,7 @@ line-height= {32}
             font-size= {12}
             line-height={16}
             >About</Nav.Link>
-            <Nav.Link href="#features"
+            <Nav.Link href=""
                  width= {49}
                  height={16}
                  left= {429}
@@ -46,7 +46,7 @@ line-height= {32}
                  font-size= {12}
                  line-height={16}
             >Projects</Nav.Link>
-            <Nav.Link href="#pricing"
+            <Nav.Link href="*"
               width= {48}
               height={16}
               left= {516}
